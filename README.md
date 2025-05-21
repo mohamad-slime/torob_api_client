@@ -19,8 +19,8 @@ This is a simple PHP API built with the Slim Framework.
 1. Clone the repository:
 
    ```sh
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name/v1
+   git clone https://github.com/mohamad-slime/torob_api_client.git
+   cd torob_api_client/v1
    ```
 
 2. Install dependencies:
